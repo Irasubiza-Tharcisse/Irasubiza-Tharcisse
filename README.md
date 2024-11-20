@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Irasubiza-Tharcisse/Irasubiza-Tharcisse** is a ✨ student ✨at Hope Haven Christian Secondary School doing Mathematics-Physics-Computer Science
+with programming skills in web Applications using python...
 
 <!--
 **Irasubiza-Tharcisse/Irasubiza-Tharcisse** is a ✨ student ✨at Hope Haven Christian Secondary School doing Mathematics-Physics-Computer Science
