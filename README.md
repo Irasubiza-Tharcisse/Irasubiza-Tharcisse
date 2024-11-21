@@ -14,8 +14,10 @@ I'm 💻 a Full-Stack Web Developer   📸, and Designer 🎨!
 
 ### 🤝 Connect with me:
 <a href="https://instagram.com/it_pro50"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Irasubiza Tharcisse| Instagram" width="21px"/></a>
-<a href="https://wa.me/+250790145255"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/whatsapp.svg" alt="Irasubiza Tharcisse | WhatsApp" width="21px"/></a>
 
+  <a href="https://wa.me/250790145255"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="Irasubiza Tharcisse | WhatsApp" width="21px"/></a>
+  
+<a href="https://t.me/250790145255"><img align="left" src="https://static.thenounproject.com/png/1234567-200.png" alt="Irasubiza Tharcisse | Telegram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
