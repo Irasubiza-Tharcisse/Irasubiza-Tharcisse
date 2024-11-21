@@ -13,7 +13,8 @@ I'm 💻 a Full-Stack Web Developer   📸, and Designer 🎨!
 "I love programming because it allows me to bring my ideas to life. There’s nothing quite like the feeling of seeing a project come together after hours of coding and debugging."
 
 ### 🤝 Connect with me:
-
+<a href="https://instagram.com/it_pro50"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Irasubiza Tharcisse| Instagram" width="21px"/></a>
+<a href="https://wa.me/+250790145255"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/whatsapp.svg" alt="Irasubiza Tharcisse | WhatsApp" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
