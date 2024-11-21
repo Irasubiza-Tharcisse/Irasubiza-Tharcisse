@@ -47,9 +47,4 @@ I'm 💻 a Full-Stack Web Developer   📸, and Designer 🎨!
 
 
 </br>
-![](https://img.shields.io/badge/Code-Renderforest-informational?style=flat&logo=Renderforest&color=FF6F20)
-![](https://img.shields.io/badge/Code-Online_Compiler-informational?style=flat&logo=CodeSandbox&color=4D4D4D)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Code-Visual_Editor-informational?style=flat&logo=VisualStudioCode&color=007ACC)
 
