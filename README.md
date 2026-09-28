@@ -52,8 +52,8 @@ I'm 💻 a Full-Stack Web Developer   📸, and Designer 🎨!
 
 </br>
 
-![Irasubiza-Tharcisse's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irasubiza-Tharcisse&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![Irasubiza-Tharcisse's Stats](https://github-readme-stats.vercel.app/api?username=Irasubiza-Tharcisse&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Irasubiza-Tharcisse's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Irasubiza-Tharcisse&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Irasubiza-Tharcisse's Stats](https://github-stats-extended.vercel.app/api?username=Irasubiza-Tharcisse&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 </br>
